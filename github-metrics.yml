@@ -1,0 +1,17 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          username: mahakseth82-prog
+          github_token: ${{ secrets.GITHUB_TOKEN }}
