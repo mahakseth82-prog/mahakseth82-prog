@@ -5,7 +5,7 @@
 # Hi, I'm Mahak Seth 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&height=90&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Full-Stack+Developer+%26+AI+Engineer+in+the+making+%F0%9F%9A%80;3rd+Year+CS+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Learning+in+public%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&height=90&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Full-Stack+Developer+%26+AI+Engineer+in+the+making+%F0%9F%9A%80;3rd+Year+CSE+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Learning+in+public%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <a href="https://www.linkedin.com/in/mahak-seth-205401381/"><img src="https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
