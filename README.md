@@ -1,48 +1,87 @@
-# 👋 Welcome to Mahak's Workspace
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Mahak Seth Banner"/>
+</p>
 
-> Building modern web experiences, exploring DevOps, and creating AI-powered solutions.
+<h1 align="center">Hi, I'm Mahak Seth 👋</h1>
+
+<p align="center">
+  <strong>Web Developer • DevOps Learner • AI Builder</strong>
+</p>
+
+<p align="center">
+I enjoy building products that solve real problems through modern web technologies,
+cloud engineering and artificial intelligence.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahakseth82-prog&label=Profile+Views&color=8B5CF6&style=flat-square"/>
+</p>
+
+---
+## 👩‍💻 About Me
+
+```ts
+const mahak = {
+    education: "B.Tech CSE",
+    location: "India 🇮🇳",
+
+    currentlyBuilding: [
+        "DeadlineZero",
+        "AI Coding Mentor"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+    ],
+
+    interestedIn: [
+        "Web Development",
+        "DevOps",
+        "Artificial Intelligence",
+        "Open Source"
+    ]
+}
+```
+
+💡 I believe that the best way to learn is by building products.
+
+Every new technology I learn becomes part of a real project.
+# 🚀 Current Workspace
+
+### 🧠 DeadlineZero
+
+> AI-powered productivity platform designed to help users plan better, avoid last-minute stress and improve focus.
+
+**Status**
+
+🟢 Active Development
 
 ---
 
-## 👩 About Me
+### 🤖 AI Coding Mentor
 
-- 💻 Web Developer
-- ☁️ DevOps Learner
-- 🤖 AI Enthusiast
-- 🌱 Currently learning React, Next.js, Docker, Kubernetes & AWS
-- 🚀 Open Source Contributor
+> Team project focused on building an intelligent coding assistant with modern AI capabilities.
 
----
+**Status**
 
-## 📂 Current Projects
-
-- 🚀 DeadlineZero
-- 🤖 AI Experiments
-- 🌐 Personal Portfolio
+🟢 Building
 
 ---
 
-## ⚡ Tech Arsenal
+### 🌐 Portfolio Website
 
-### Frontend
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+> Designing my personal portfolio with a clean, modern and interactive user experience.
 
-### Backend
-Node.js • Express • Firebase
+**Status**
 
-### DevOps
-Linux • Docker • Git • GitHub Actions • AWS • Kubernetes
+🟡 Planning
+# 📖 Development Philosophy
 
----
+I don't build projects just to complete tutorials.
 
-## 🎯 2026 Goals
+I build products that solve real-world problems.
 
-- [ ] Build 5 production-ready projects
-- [ ] Contribute to Open Source
-- [ ] Crack a DevOps Internship
-- [ ] Learn Kubernetes
-- [ ] Earn AWS Cloud Certification
-
----
-
-⭐ Thanks for visiting my profile!
+I believe consistency, curiosity and shipping real software matter more than collecting certificates.
