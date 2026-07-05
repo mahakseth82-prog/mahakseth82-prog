@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header" width="100%"/>
 
 # Hi, I'm Mahak Seth 👋
@@ -9,18 +8,16 @@
 </a>
 
 <a href="https://www.linkedin.com/in/mahak-seth-205401381/"><img src="https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mahakseth82L@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="mailto:mahakseth82L@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
-
 <br/>
 
 ## 🚀 About Me
 
 - 🎓 **3rd Year B.Tech CSE Student**, India — Full-Stack Developer learning by building real, shippable products
 - 🧠 Currently building **[DeadlineZero](https://github.com/mahakseth82-prog/DeadlineZero)** — an AI-powered productivity platform
-- 📦 Deepening my backend & infra skills: `Docker` · `Linux` · `DevOps Fundamentals` · `API Design` . `Backend`
+- 📦 Deepening my backend & infra skills: `Docker` · `Linux` · `DevOps Fundamentals` · `API Design` · `Backend`
 - 🤝 Open to collaborating on **open-source AI tools** and **developer productivity apps**
 - ⚡ Fun fact: I'd rather untangle a merge conflict than watch another tutorial
 
@@ -45,7 +42,6 @@
 <img src="https://skillicons.dev/icons?i=postgres,firebase,git,github,docker,linux&theme=dark" />
 
 </div>
-
 <br/>
 
 ## 📌 Featured Project
@@ -71,26 +67,20 @@
 <sub>*More flagship projects coming soon as they reach production quality.*</sub>
 
 </div>
-
 <br/>
 
 ## 📊 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mahakseth82-prog&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" width="65%"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mahakseth82-prog&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=00C9FF&currStreakLabel=8E2DE2" width="65%"/>
 </div>
-
 <br/>
-
 
 ## 📈 Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahakseth82-prog&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=00C9FF&point=ffffff&area=true&area_color=4A00E0" width="100%"/>
 </div>
-
 <br/>
 
 <div align="center">
