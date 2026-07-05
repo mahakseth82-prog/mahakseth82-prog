@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&height=90&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Full-Stack+Developer+%26+AI+Engineer+in+the+making+%F0%9F%9A%80;3rd+Year+CS+Student+%7C+India+%F0%9F%87%AE%F0%9F%87%B3;Learning+in+public%2C+one+commit+at+a+time+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahak-seth-205401381/"><img src="https://img.shields.io/badge/LinkedIn-4A00E0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mahakseth82L@gmail.com"><img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 </div>
 
@@ -20,7 +20,7 @@
 
 - 🎓 **3rd Year B.Tech CSE Student**, India — Full-Stack Developer learning by building real, shippable products
 - 🧠 Currently building **[DeadlineZero](https://github.com/mahakseth82-prog/DeadlineZero)** — an AI-powered productivity platform
-- 📦 Deepening my backend & infra skills: `Docker` · `Linux` · `DevOps Fundamentals` · `API Design`
+- 📦 Deepening my backend & infra skills: `Docker` · `Linux` · `DevOps Fundamentals` · `API Design` . `Backend`
 - 🤝 Open to collaborating on **open-source AI tools** and **developer productivity apps**
 - ⚡ Fun fact: I'd rather untangle a merge conflict than watch another tutorial
 
@@ -84,13 +84,6 @@
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahakseth82-prog&theme=radical&no-frame=true&row=2&column=4"/>
-</div>
-
-<br/>
 
 ## 📈 Activity Graph
 
